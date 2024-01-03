@@ -2,7 +2,7 @@ module github.com/grafana/xk6-exec
 
 go 1.19
 
-require go.k6.io/k6 v0.45.1
+// require go.k6.io/k6 v0.45.1
 
 require (
 	github.com/dlclark/regexp2 v1.9.0 // indirect
